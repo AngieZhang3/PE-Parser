@@ -9,7 +9,7 @@ PEParser is a Windows application built using the MFC library. It is designed to
    Add new sections to the end of the PE file, ensuring proper alignment and integration with existing sections.
 4. Import Adder <br>
   Inject custom DLLs and functions into the Import Table, enabling advanced file manipulation or redirection of function calls.
-5. Address Converter
+5. Address Converter<br>
   Convert between RVA, VA and File Offset
 # Usage
 1. Open a PE File<br>
